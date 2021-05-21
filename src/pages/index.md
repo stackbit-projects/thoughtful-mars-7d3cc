@@ -70,7 +70,7 @@ seo:
       value: Plantous Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: The preview of the Plantous theme
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
