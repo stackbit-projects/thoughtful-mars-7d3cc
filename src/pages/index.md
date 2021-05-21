@@ -81,7 +81,7 @@ seo:
     - name: 'twitter:title'
       value: Plantous Theme
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: The preview of the Plantous theme
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
