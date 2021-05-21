@@ -61,7 +61,7 @@ sections:
       arrow: true
 seo:
   title: Plantous Theme
-  description: The preview of the Planty theme
+  description: The preview of the Plantous theme
   extra:
     - name: 'og:type'
       value: website
